@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(215, 221, 250);
+}
+h1 {
+    color: blue
+}
+p {
+    color: rgb(255, 0, 64);
+}
+h2 {
+    color: chocolate;
+}
+h2 + p {
+    color: rgb(0, 183, 255);
+}
+
+li.1 {
+    color: blue
+}
+
